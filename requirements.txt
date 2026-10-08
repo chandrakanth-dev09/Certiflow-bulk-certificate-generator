@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+pydantic-settings
+reportlab
+qrcode
+pillow
+celery
+redis
+python-multipart
+pytest
+httpx
+email-validator
